@@ -1,0 +1,37 @@
+{
+  "item.aureate.aurium": "Aureate Ingot",
+  "item.aureate.relic_helmet": "Relic Helmet",
+  "item.aureate.relic_chestplate": "Relic Chestplate",
+  "item.aureate.relic_leggings": "Relic Leggings",
+  "item.aureate.relic_boots": "Relic Boots",
+  "item.aureate.resonating_blade": "Resonating Blade",
+  "item.aureate.aureate_mace": "Aureate Mace",
+  "item.aureate.quantumblade": "Quantumblade",
+  "item.aureate.flurryblade": "Phantasmblade",
+  "item.aureate.sword_of_squalls": "Galesword",
+  "item.aureate.flame_sword": "Flamebrand",
+  "item.aureate.aztec_sword": "Macuahuitl",
+  "item.aureate.gauntlet": "Aureate Fist",
+  "item.aureate.primal_axe": "Primal Axe",
+  "item.aureate.aureatehorn": "Aureate Horn",
+  "item.aureate.seething_blade": "Seething Fury",
+
+
+  "entity.aureate.mirror": "Astral Projection",
+  "entity.aureate.etherealwolf": "Ethereal Wolf",
+  "entity.aureate.gauntlet": "Mystic Shot",
+  "entity.aureate.galeswordproj": "Gale",
+  "entity.aureate.fire": "Wildfire",
+
+  "effect.aureate.ethereal": "Ethereal Armor",
+  "effect.aureate.fanofknives": "Fan of Knives",
+  "effect.aureate.squall": "Squall",
+  "effect.aureate.ruptured": "Ruptured",
+  "effect.aureate.etherealwolf": "Ethereal Wolf",
+  "effect.aureate.mirror": "Astral Projection",
+  "effect.aureate.flurrying": "Flurrying",
+  "effect.aureate.bloodthirst": "Bloodthirst",
+  "effect.aureate.fistflurry": "Flurry of Fists",
+
+  "itemGroup.aureate.items": "Aureate Reliquary"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:golden_helmet"
+  },
+  "addition": {
+    "item": "aureate:aurium"
+  },
+  "result": {
+    "item": "aureate:relic_helmet"
+  }
+}

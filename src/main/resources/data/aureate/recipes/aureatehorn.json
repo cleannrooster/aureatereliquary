@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:goat_horn"
+  },
+  "addition": {
+    "item": "aureate:aurium"
+  },
+  "result": {
+    "item": "aureate:aureatehorn"
+  }
+}
